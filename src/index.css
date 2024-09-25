@@ -17,6 +17,7 @@ body {
 	border-color: #3b3b3b;
 	user-select: none;
 	font-family: 'Rubik', sans-serif;
+	color: black;
 
 	/* for testing */
 	padding-bottom: 2000px;

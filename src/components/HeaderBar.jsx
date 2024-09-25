@@ -21,7 +21,7 @@ const HeaderBar = () => {
 	return (
 		<header
 			id="header"
-			className="fixed top-0 left-0 flex items-center justify-start w-full px-12 py-2 transition-all duration-150 ease-linear bg-yellow-400 sm:px-48 md:px-32"
+			className="fixed top-0 left-0 z-10 flex items-center justify-start w-full px-10 py-0 transition-all duration-150 ease-linear bg-yellow-400 sm:px-48"
 		>
 			<div className="flex w-full screen-max-width">
 				<div className="h-full py-4 cursor-pointer flex-center">
