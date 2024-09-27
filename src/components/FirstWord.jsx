@@ -21,7 +21,7 @@ const FirstWord = () => {
 	}, []);
 
 	const funcTranslateOnClick = () => {
-		if (window.innerWidth < 760) {
+		if (window.innerWidth < 640) {
 			const slider = document.getElementById('images');
 			slider.classList.toggle('-translate-x-[55vw]');
 		}

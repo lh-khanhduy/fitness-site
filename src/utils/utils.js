@@ -25,3 +25,23 @@ export const ninthImg = img9;
 export const tenthImg = img10;
 export const eleventhImg = img11;
 export const weightImg = weightIcon;
+
+export const ServiceCardsArr = [
+	{
+		img: fourthImg,
+		service: 'Personal Training Sessions',
+		description: 'One-on-one training designed to meet your specific fitness goals and needs.',
+	},
+	{
+		img: fifthImg,
+		service: 'Group Fitness Classes',
+		description:
+			'Engage in motivating group classes that cover a range of fitness levels and interests.',
+	},
+	{
+		img: sixthImg,
+		service: 'Nutritional Guidance',
+		description:
+			'Receive personalized dietary advice to complement your fitness regime and enhance results.',
+	},
+];
