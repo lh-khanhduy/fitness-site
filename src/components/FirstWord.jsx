@@ -28,7 +28,7 @@ const FirstWord = () => {
 	};
 
 	return (
-		<section className="w-full mt-20 h-[calc(90vh-75px)] bg-yellow-400 flex justify-center">
+		<section className="w-full mt-20 h-[calc(95vh-75px)] bg-yellow-400 flex justify-center">
 			<div className="w-[82vw] h-[80vh] pt-4 flex-col flex sm:flex-row sm:items-center sm:gap-10">
 				<div id="first-word" className="flex flex-col gap-6 opacity-0 sm:w-[40vw]">
 					<h2 className="text-3xl sm:text-4xl">Customized Fitness Plans for Success</h2>

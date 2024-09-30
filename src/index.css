@@ -54,6 +54,11 @@ canvas {
 	.link {
 		@apply flex items-center text-xl text-blue-500 translate-y-20 cursor-pointer hover:underline;
 	}
+
+	/* adding custom */
+	.img-resize {
+		@apply sm:rounded-md sm:w-[20.4vw] sm:h-[35vh] object-cover;
+	}
 }
 
 /* Customize for the site */

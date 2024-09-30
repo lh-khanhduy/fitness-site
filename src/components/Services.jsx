@@ -26,7 +26,7 @@ const Services = () => {
 	}, []);
 
 	return (
-		<section className="h-[70vh] flex justify-center ">
+		<section className="sm:h-[70vh] h-fit flex justify-center ">
 			<div className="w-[85vw]">
 				<h2 className="text-4xl">Services</h2>
 

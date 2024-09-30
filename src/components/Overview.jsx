@@ -31,7 +31,7 @@ const Overview = () => {
 	}, []);
 
 	return (
-		<section className="h-[75vh] sm:h-[110vh] flex justify-center pt-16">
+		<section className="h-fit sm:h-[110vh] flex justify-center py-16">
 			<div className="w-[85vw]">
 				<div className="gap-6 sm:flex">
 					<h2 id="g-overview-text" className="pb-4 text-3xl sm:text-4xl sm:flex-1">
